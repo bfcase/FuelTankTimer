@@ -1,3 +1,3 @@
 # FuelTankTimer
-Cheap Yellow Display Fuel Tank Timer for 2 fuel Tank aircraft c
+Cheap Yellow Display Fuel Tank Timer for 2 fuel Tank For Aircraft 
 Created on PlatformIO
